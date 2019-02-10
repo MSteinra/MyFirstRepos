@@ -1,0 +1,11 @@
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.deps.json
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.runtimeconfig.json
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.runtimeconfig.dev.json
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.dll
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/bin/Debug/netcoreapp2.0/LearningCSharp.pdb
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.csprojResolveAssemblyReference.cache
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.csproj.CoreCompileInputs.cache
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.AssemblyInfoInputs.cache
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.AssemblyInfo.cs
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.dll
+/Users/Jacob/Desktop/LearningCSharp/LearningCSharp/obj/Debug/netcoreapp2.0/LearningCSharp.pdb
